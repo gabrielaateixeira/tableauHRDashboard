@@ -1,2 +1,14 @@
-# tableauHRDashboard
-HR Analytics Dashboard built with Tableau to visualize employee attrition, demographics, job satisfaction, and departmental trends.   Key metrics include Attrition Rate, Active Employees, and Job Satisfaction by Role.   Designed for quick insights to support HR decision-making.
+# HR Analytics Dashboard
+
+An interactive dashboard built with Tableau to analyze employee attrition, demographics, job roles, and satisfaction.
+
+🔍 **Key Insights:**
+- Total Employees, Attrition Rate, and Active Headcount
+- Attrition by Department, Education Field, and Age Group
+- Job Satisfaction Ratings per Role
+- Gender-based Attrition Breakdown
+
+📊 **Tools Used:** Tableau, Excel  
+📁 **Data:** HR dataset with 1,470 employee records
+
+Created for data storytelling and HR decision-making support.
