@@ -11,4 +11,4 @@ An interactive dashboard built with Tableau to analyze employee attrition, demog
 📊 **Tools Used:** Tableau, Excel  
 📁 **Data:** HR dataset with 1,470 employee records
 
-Created for data storytelling and HR decision-making support.
+(https://prod-ca-a.online.tableau.com/#/site/humberbi/views/week10/HRANALYTICSDASHBOARD?:iid=1)
